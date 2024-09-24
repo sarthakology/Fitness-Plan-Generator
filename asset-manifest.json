@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fitness-Plan-Generator/static/css/main.3cee8dde.css",
+    "main.js": "/Fitness-Plan-Generator/static/js/main.68c03ec4.js",
+    "index.html": "/Fitness-Plan-Generator/index.html",
+    "main.3cee8dde.css.map": "/Fitness-Plan-Generator/static/css/main.3cee8dde.css.map",
+    "main.68c03ec4.js.map": "/Fitness-Plan-Generator/static/js/main.68c03ec4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cee8dde.css",
+    "static/js/main.68c03ec4.js"
+  ]
+}
