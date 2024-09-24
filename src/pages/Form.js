@@ -129,7 +129,7 @@ const Form = ({ setFormData, setFormStatus }) => {
             />
             <p className="text-m text-gray-500 mt-1">Other Information Example:</p>
             <p className="text-sm text-gray-500">I have back pain</p>
-            <p className="text-sm text-gray-500">I want to lose weight</p>
+            <p className="text-sm text-gray-500">benefits of creatine</p>
             <p className="text-sm text-gray-500">I'm allergic to peanuts</p>
           </div>
           <button
