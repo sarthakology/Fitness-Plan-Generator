@@ -4,9 +4,9 @@ const Footer = () => {
   return (
     <footer className="bg-gray-800 text-white py-4">
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5790757708486073"
-       crossorigin="anonymous"></script>
-      <ins class="adsbygoogle"
-       style="display:block; text-align:center;"
+       crossOrigin="anonymous"></script>
+      <ins className="adsbygoogle"
+       style={{ display: 'block', textAlign: 'center' }}
        data-ad-layout="in-article"
        data-ad-format="fluid"
        data-ad-client="ca-pub-5790757708486073"
