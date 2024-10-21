@@ -1,19 +1,7 @@
 import React from 'react';
 
 const Footer = () => {
-  return (<>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5790757708486073"
-        crossorigin="anonymous"></script>
-    <ins className="adsbygoogle"
-        style={{ display: 'block', textAlign: 'center' }}
-        data-ad-layout="in-article"
-        data-ad-format="fluid"
-        data-ad-client="ca-pub-5790757708486073"
-        data-ad-slot="1398638388"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-
+  return (
     <footer className="bg-gray-800 text-white py-4">
       <div className="container mx-auto flex justify-between items-center">
         <p className="text-sm">
@@ -34,7 +22,6 @@ const Footer = () => {
         </p>
       </div>
     </footer>
-    </>
   );
 };
 
