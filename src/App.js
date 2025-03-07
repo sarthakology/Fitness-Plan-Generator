@@ -17,7 +17,7 @@ function App() {
 
       try {
         const response = await axios.post(
-          `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${KEY}`,
+          `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${KEY}`,
           {
             contents: [
               {
