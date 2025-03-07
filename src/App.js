@@ -9,7 +9,7 @@ function App() {
   const [workoutText, setWorkoutText] = useState('Loading plan please wait...');
   const [formStatus, setFormStatus] = useState(0);
   const [formData, setFormData] = useState({});
-  const KEY = 'AIzaSyDzph1G8TKz7f70NREOwurT-zwcP5LD-kQ';
+  const KEY = 'AIzaSyAWY9IMXUgM-XBRmOgVz5iCDrTi9HJJ7dM';
 
   useEffect(() => {
     const fetchWorkoutPlan = async () => {
