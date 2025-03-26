@@ -32,7 +32,7 @@ const Form = ({ setFormData, setFormStatus }) => {
   return (
     <div
       className="min-h-screen bg-cover bg-center flex items-center justify-center"
-      style={{ backgroundImage: 'url(https://png.pngtree.com/thumb_back/fh260/background/20230613/pngtree-black-and-white-gym-room-with-a-row-of-equipment-image_2911173.jpg)' }}
+      style={{ backgroundImage: 'url(https://media.istockphoto.com/id/2075354173/photo/fitness-couple-is-doing-kettlebell-twist-in-a-gym-togehter.jpg?s=612x612&w=0&k=20&c=lfs1V1d0YB33tn72myi6FElJnylPJYYM9lW5ZhlnYqY=)' }}
     >
       <div className="max-w-lg w-full p-8 bg-white bg-opacity-75 rounded-lg shadow-lg">
         <h2 className="text-center text-2xl font-bold text-gray-900 mb-6">
